@@ -1,0 +1,29 @@
+{
+  "name": "microservice-template",
+  "version": "1.0.0",
+  "description": "A boilerplate for Node.js microservice",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./src/app.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JerryDoubleU/microservice-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JerryDoubleU/microservice-template/issues"
+  },
+  "homepage": "https://github.com/JerryDoubleU/microservice-template#readme",
+  "dependencies": {
+    "@types/express": "^4.0.39",
+    "express": "^4.16.2",
+    "ts-node": "^3.3.0",
+    "typescript": "^2.6.2"
+  },
+  "devDependencies": {
+    "tslint": "^5.8.0"
+  }
+}
