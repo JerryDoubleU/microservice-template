@@ -17,7 +17,7 @@ export class Server {
 
     private configure() {
         this.app.get('/', (request: express.Request, response: express.Response) => {
-            response.send('Dupa');
+            response.send('Soniaczek kluseczka');
         });
     }
 }
