@@ -1,2 +1,2 @@
 # microservice-template
-A boilerplate for Node.js microservice
+A TypeScript boilerplate for Node.js microservice
